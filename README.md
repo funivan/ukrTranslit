@@ -1,0 +1,4 @@
+ukrTranslit
+===========
+
+Jquery Ukrtranslit plugin
